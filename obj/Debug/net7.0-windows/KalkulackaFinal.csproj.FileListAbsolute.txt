@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\bin\Debug\net7.0-windows\KalkulackaFinal.exe
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\bin\Debug\net7.0-windows\KalkulackaFinal.deps.json
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\bin\Debug\net7.0-windows\KalkulackaFinal.runtimeconfig.json
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\bin\Debug\net7.0-windows\KalkulackaFinal.dll
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\bin\Debug\net7.0-windows\KalkulackaFinal.pdb
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.Form1.resources
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.dll
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\refint\KalkulackaFinal.dll
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.pdb
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\KalkulackaFinal.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ConsoleApp1\KalkulackaFinal\obj\Debug\net7.0-windows\ref\KalkulackaFinal.dll

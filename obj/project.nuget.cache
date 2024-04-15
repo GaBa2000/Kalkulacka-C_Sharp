@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxAlGroORiLwXI7Up/Dsi6LjkGhE0C1xHBY+CI9jvcoqVm76L78q6JDu0dFEEybmzFUi62jU2GSzMHdpuF6x2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ConsoleApp1\\KalkulackaFinal\\KalkulackaFinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
